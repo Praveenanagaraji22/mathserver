@@ -143,10 +143,10 @@ urlpatterns = [
 ```
 
 ## OUTPUT:
-![OUTPUT](./out.png)
+![out14](https://user-images.githubusercontent.com/119393514/215304725-ea472adc-835e-4e1e-8c75-245007295205.jpeg)
 
 ### Home Page:
-![Home Page](./home.png)
+![rec1](https://user-images.githubusercontent.com/119393514/215304667-c01060dc-15fe-4e8e-a0a9-5c4be9f41e1e.jpeg)
 
 
 ## Result:
